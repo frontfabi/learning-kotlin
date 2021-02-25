@@ -1,5 +1,5 @@
 <div style="text-align: center">
-  <img src="./repo-files/Kotlin_logo.png" style="width: 200px; text-align: center">
+  <img src="./repo-files/Kotlin_logo.png" width="200" />
   <h1 style="text-align: center">Learning</h1>
 </div>
 
