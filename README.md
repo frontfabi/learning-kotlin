@@ -1,6 +1,6 @@
 <div style="text-align: center">
   <img src="./repo-files/Kotlin_logo.png" style="width: 200px; text-align: center">
-  <h1>Learning</h1>
+  <h1 style="text-align: center">Learning</h1>
 </div>
 
 Repositório de estudos da Linguagem Kotlin. Vou separar cada fase do avanço em branches. Então, vc pode acompanhar cada tópico pelo nome, que vai estar na aba branch.
